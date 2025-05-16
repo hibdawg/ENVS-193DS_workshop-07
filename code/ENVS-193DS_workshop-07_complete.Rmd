@@ -69,8 +69,11 @@ ggplot(data = abalone_clean,
   # first layer: points representing abalones
   geom_point(size = 4,
              stroke = 1,
-             fill = "firebrick4",
-             shape = 21)
+             fill = "#670393",
+             shape = 21) + 
+  theme_minimal() + 
+  labs(x = "ph",
+       y = "change in shell area")
 ```
 
 ## d. Abalone model
