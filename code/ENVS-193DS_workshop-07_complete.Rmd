@@ -1,7 +1,7 @@
 ---
-title: "Untitled"
-author: "your name here"
-date: "`r Sys.Date()`"
+title: "linear Regression"
+author: "Hibah Ganie"
+date: "`5/15/25`"
 output:
   html_document:
     toc: true

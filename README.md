@@ -6,7 +6,7 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+this repository is for your mom, i am testing forking, cloning, and using github pages.
 
 Whose repo is it? Who is contributing to it?
 
@@ -18,4 +18,4 @@ What code is there, and what does it do?
 
 ## Rendered output
 
-Link to the rendered output. Make sure it is a **working url**. You can test this by sharing the url with someone else to open on their computer - if it doesn't work, that means your GitHub pages set up didn't work.
+the rendered .html for this workshops materias is here
